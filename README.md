@@ -1,8 +1,8 @@
-# 📊 Sales Dashboard (Power BI Project)
+# 📊 SuperStore Sales Dashboard (Power BI Project)
 
 ## 📌 Project Overview
-This project is a Sales Dashboard created using Power BI.
-It shows total sales, profit, region-wise analysis, and monthly trends.
+The SuperStore Sales Dashboard is an interactive Business Intelligence project built using Microsoft Power BI.
+It provides detailed insights into sales performance, profit trends, customer segments, regional distribution, and includes a 15-day sales forecast to support data-driven decision-making.
 
 ## 📷 Dashboard Preview
 
@@ -13,9 +13,22 @@ It shows total sales, profit, region-wise analysis, and monthly trends.
 - Excel
 - Data Cleaning
 - DAX
+- Data Modeling
+- Forecasting Techniques
 
 ## 📈 Key Insights
-- Total Sales Analysis
-- Region-wise Performance
-- Monthly Revenue Trend
-- Top Products Analysis
+- Sales by Category and Sub-Category
+- Sales by Region and State
+- Sales by Ship Mode
+- Sales by Payment Mode
+- Monthly Sales & Profit Analysis
+- Segment-wise Sales Distribution
+- 15-Day Sales Forecast
+
+## 📊 Key Metrics
+- Total Sales: 2M+
+- Total Profit: 175K+
+- Total Orders: 22K+
+- Average Ship Days: 4
+
+  
