@@ -7,6 +7,7 @@ It provides detailed insights into sales performance, profit trends, customer se
 ## 📷 Dashboard Preview
 
 ![Sales Dashboard](sales_dashboard_page1.jpg)
+![Sales Dashboard](sales_dashboard_page-0002)
 
 ## 🛠 Tools Used
 - Power BI
