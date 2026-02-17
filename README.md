@@ -9,14 +9,6 @@ It provides detailed insights into sales performance, profit trends, customer se
 ![Sales Dashboard](sales_dashboard_page1.jpg)
 ![Sales Dashboard](sales_dashboard_page-0002.jpg)
 
-## 🛠 Tools Used
-- Power BI
-- Excel
-- Data Cleaning
-- DAX
-- Data Modeling
-- Forecasting Techniques
-
 ## 📈 Key Insights
 - Sales by Category and Sub-Category
 - Sales by Region and State
@@ -31,5 +23,14 @@ It provides detailed insights into sales performance, profit trends, customer se
 - Total Profit: 175K+
 - Total Orders: 22K+
 - Average Ship Days: 4
+
+## 🛠 Tools Used
+- Power BI
+- Excel
+- Data Cleaning
+- DAX
+- Data Modeling
+- Forecasting Techniques
+
 
   
