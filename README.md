@@ -6,7 +6,7 @@ It shows total sales, profit, region-wise analysis, and monthly trends.
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](sales_dashboard_page1.jpg)
 
 ## 🛠 Tools Used
 - Power BI
