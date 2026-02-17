@@ -1,18 +1,21 @@
-# Sales Dashboard - Power BI
+# 📊 Sales Dashboard (Power BI Project)
 
-## Project Overview
-A comprehensive sales analysis dashboard developed to track key performance indicators (KPIs) and trends.
+## 📌 Project Overview
+This project is a Sales Dashboard created using Power BI.
+It shows total sales, profit, region-wise analysis, and monthly trends.
 
-## Key Features & Skills Applied
-* [cite_start]**Data Preparation**: Cleaned and transformed raw data using Power Query[cite: 45].
-* [cite_start]**Data Modeling**: Established relationships between tables for accurate reporting[cite: 45].
-* [cite_start]**DAX Calculations**: Created measures for Year-over-Year (YoY) growth and moving averages[cite: 46].
-* [cite_start]**AI Integration**: Leveraged Power BI's AI visuals for trend forecasting[cite: 44].
+## 📷 Dashboard Preview
 
-## Visualizations
-![Dashboard Screenshot](link-to-your-screenshot.png)
+![Sales Dashboard](dashboard.png)
 
-## Tools Used
-* Power BI Desktop
-* DAX
-* Power Query
+## 🛠 Tools Used
+- Power BI
+- Excel
+- Data Cleaning
+- DAX
+
+## 📈 Key Insights
+- Total Sales Analysis
+- Region-wise Performance
+- Monthly Revenue Trend
+- Top Products Analysis
